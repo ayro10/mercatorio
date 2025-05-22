@@ -25,7 +25,7 @@ sudo apt-get install -y libmagic1
 ### 2. Clone o repositório e acesse a pasta do projeto
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/ayro10/mercatorio.git
 cd mercatorio
 ```
 
